@@ -50,6 +50,7 @@ if !empty(glob("~/.config/nvim/paths.vim"))
 endif
 let g:polyglot_disabled = ['csv']
 
+let g:user_emmet_leader_key=','
 " Python
 " https://realpython.com/python-debugging-pdb/ " breakpoint syntax is really cool
 " also look into profiling as well

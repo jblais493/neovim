@@ -12,6 +12,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'maxmellon/vim-jsx-pretty'
   
 
+  Plug 'mattn/emmet-vim'
   Plug 'jistr/vim-nerdtree-tabs'
   Plug 'scrooloose/nerdtree'
   Plug 'ryanoasis/vim-devicons'

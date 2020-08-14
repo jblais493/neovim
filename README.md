@@ -12,7 +12,7 @@ This script only supports Mac, Ubuntu and Arch
 bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/nvim/master/utils/install.sh)
 ```
 
-## Install Neovim
+## Install [Neovim](Neovim)
 
 - On Mac
 
